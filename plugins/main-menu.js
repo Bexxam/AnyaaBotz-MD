@@ -41,7 +41,7 @@ const defaultMenu = {
 ▣────────────────◈
 %readmore`.trimStart(), 
   header: '▣─「 %category 」',
-  body: '├ %cmd %islimit %isPremium',
+  body: '├ • %cmd %islimit %isPremium',
   footer: '▣──────────◈\n', 
   after: ``,
 }
@@ -322,116 +322,116 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
                 "title": "INFORMASI BOT"
               }, {
                 "rows": [{
-                  "title": `│1│ SEMUA PERINTAH`,
-                  "description": "Menampilkan Menu All",
+                  "title": `SEMUA PERINTAH`,
+                  "description": "",
                   "rowId": '.? all'
                   }, {
-                  "title": "│2│ ABSEN & VOTING",
-                  "description": "Menampilkan Menu Absen",
+                  "title": "ABSEN & VOTING",
+                  "description": "",
                   "rowId": `${_p}? absen`
                 }, {
-                  "title": "│3│ANIME",
-                  "description": "Menampilkan Menu Anime",
+                  "title": "ANIME",
+                  "description": "",
                   "rowId": `${_p}? anime`
                 }, {
-                  "title": "│4│STICKER & CONVERTER",
-                  "description": "Menampilkan Menu Sticker",
+                  "title": "STICKER & CONVERTER",
+                  "description": "",
                   "rowId": `${_p}? sticker`
                 }, {
-                  "title": "│5│DOWNLOADER",
-                  "description": "Menampilkan Menu Downloader",
+                  "title": "DOWNLOADER",
+                  "description": "",
                   "rowId": `${_p}? downloader`
                 }, {
-                  "title": "│6│EXP & LIMIT",
-                  "description": "Menampilkan Menu Exp",
+                  "title": "EXP & LIMIT",
+                  "description": "",
                   "rowId": `${_p}? xp`
                 }, {
-                  "title": "│7│FUN",
-                  "description": "Menampilkan Menu Fun",
+                  "title": "FUN",
+                  "description": "",
                   "rowId": `${_p}? fun`
                 }, {
-                  "title": "│8│GAME",
-                  "description": "Menampilkan Menu Game",
+                  "title": "GAME",
+                  "description": "",
                   "rowId": `${_p}? game`
                 }, {
-                  "title": "│9│GITHUB",
-                  "description": "Menampilkan Menu Github",
+                  "title": "GITHUB",
+                  "description": "",
                   "rowId": `${_p}? github`
                 }, {
-                  "title": "│10│GROUP",
-                  "description": "Menampilkan Menu Group",
+                  "title": "GROUP",
+                  "description": "",
                   "rowId": `${_p}? group`
                 }, {
-                  "title": "│11│IMAGE",
-                  "description": "Menampilkan Menu Image",
+                  "title": "IMAGE",
+                  "description": "",
                   "rowId": `${_p}? image`
                 }, {
-                  "title": "│12│INTERNET",
-                  "description": "Menampilkan Menu Internet",
+                  "title": "INTERNET",
+                  "description": "",
                   "rowId": `${_p}? internet`
                 }, {
-                  "title": "│13│ISLAMIC",
-                  "description": "Menampilkan Menu Islam",
+                  "title": "ISLAMIC",
+                  "description": "",
                   "rowId": `${_p}? islam`
                 }, {
-                  "title": "│14│KERANG",
-                  "description": "Menampilkan Menu Kerang",
+                  "title": "KERANG",
+                  "description": "",
                   "rowId": `${_p}? kerang`
                 }, {
-                  "title": "│15│MAKER",
-                  "description": "Menampilkan Menu Maker",
+                  "title": "MAKER",
+                  "description": "",
                   "rowId": `${_p}? maker`
                 }, {
-                  "title": "│16│OWNER",
-                  "description": "Menampilkan Menu Owner",
+                  "title": "OWNER",
+                  "description": "",
                   "rowId": `${_p}? owner`
                 }, {
-                  "title": "│17│PENGUBAH SUARA",
-                  "description": "Menampilkan Menu Voice Changer",
+                  "title": "PENGUBAH SUARA",
+                  "description": "",
                   "rowId": `${_p}? suara`
                 }, {
-                  "title": "│18│PREMIUM",
-                  "description": "Menampilkan Menu Premium",
+                  "title": "PREMIUM",
+                  "description": "",
                   "rowId": `${_p}? premium`
                 }, {
-                  "title": "│19│QUOTES",
-                  "description": "Menampilkan Menu Quotes",
+                  "title": "QUOTES",
+                  "description": "",
                   "rowId": `${_p}? quotes`
                 }, {
-                  "title": "│20│RPG",
-                  "description": "Menampilkan Menu Rpg",
+                  "title": "RPG",
+                  "description": "",
                   "rowId": `${_p}? rpg`
                 }, {
-                  "title": "│21│STALKER",
-                  "description": "Menampilkan Menu Stalker",
+                  "title": "STALKER",
+                  "description": "",
                   "rowId": `${_p}? stalk`
                 }, {
-                  "title": "│22│SHORT LINK",
-                  "description": "Menampilkan Menu Short Link",
+                  "title": "SHORT LINK",
+                  "description": "",
                   "rowId": `${_p}? shortlink`
                 }, {
-                  "title": "│23│TOOLS MENU",
-                  "description": "Menampilkan Menu Tools",
+                  "title": "TOOLS MENU",
+                  "description": "",
                   "rowId": `${_p}? tools`
                 }, {
-                  "title": "│24│TEXT MAKER",
-                  "description": "Menampilkan Maker Text",
+                  "title": "TEXT MAKER",
+                  "description": "",
                   "rowId": `${_p}? text`
                 }, {
-                  "title": "│25│HENTAI",
-                  "description": "Menampilkan Menu Hentai",
+                  "title": "HENTAI",
+                  "description": "",
                   "rowId": `${_p}? nsfw`
                 }, {
-                  "title": "│26│RANDOM",
-                  "description": "Menampilkan Menu Random/Gabut",
+                  "title": "RANDOM",
+                  "description": "",
                   "rowId": `${_p}? random`
                 }, {
-                  "title": "│27│TEXT PRO",
-                  "description": "Menampilkan Text Pro Menu",
+                  "title": "TEXT PRO",
+                  "description": "",
                   "rowId": `${_p}? textpro`
                 }, {
-                  "title": "│28│PHOTO OXY",
-                  "description": "Menampilkan Photo Oxy Menu",
+                  "title": "PHOTO OXY",
+                  "description": "",
                   "rowId": `${_p}? textpro`
                 }
                   ],

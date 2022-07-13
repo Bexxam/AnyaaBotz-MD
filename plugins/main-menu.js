@@ -538,7 +538,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
            {
              quickReplyButton: {
                displayText: '> Back To Menu <',
-               id: '.tqto',
+               id: '.menu',
              }
            }]
          }

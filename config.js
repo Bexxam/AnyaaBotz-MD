@@ -7,7 +7,7 @@ global.prems = []
 global.nameowner = 'IyannTuruu'
 global.numberowner = '6285742344873'
 global.instagram = 'https://instagram.com/iyann'
-global.github = 'https://github.com/IyannzTuruu'
+global.github = 'https://github.com/IyannTuruu'
 global.dana = '085742344873'
 global.pulsa = '085742344873'
 global.gopay = '085742344873'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = '2022'
-global.author = '© IyannTuruu'
+global.author = '© IyannSans'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
@@ -76,7 +76,7 @@ global.APIKeys = { // APIKey Here
   'https://hardianto-chan.herokuapp.com': 'hardianto',
   'https://pencarikode.xyz': 'pais', 
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
-  'https://zekais-api.herokuapp.com': 'apikeymu',
+  'https://zekais-api.herokuapp.com': '2fUEe2IL',
   'https://api.lolhuman.xyz': 'Deffbotz',
 }
 

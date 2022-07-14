@@ -23,7 +23,7 @@ global.fotonya1 = 'https://telegra.ph/file/eab4cd4b1ba9278a58b34.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/eab4cd4b1ba9278a58b34.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'ꜱʜɪʀᴏ ɪᴋᴀꜱᴀᴋɪ ʙᴏᴛ'
+global.wm = 'AnyaaBotz-MD'
 global.watermark = wm
 global.wm2 = '                     「 AnyaaBotz あ⁩ 」'
 global.wm3 = 'AnyaaBotz-MD'
@@ -69,7 +69,7 @@ global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
   'https://melcanz.com': 'elaina',
   'https://server-api-rey.herokuapp.com': 'apirey',
-  'https://api.xteam.xyz': 'd37372311698ed1d',
+  'https://api.xteam.xyz': '0427f3b840d3dd5e',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://bsbt-api-rest.herokuapp.com': 'benniismael',
   'https://api.zeks.xyz': 'apivinz',

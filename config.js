@@ -4,7 +4,7 @@ global.mods = []
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'IyannTuruu'
+global.nameowner = 'Iyann [ Owner ]'
 global.numberowner = '6285742344873'
 global.instagram = 'https://instagram.com/iyann'
 global.github = 'https://github.com/IyannTuruu'
@@ -23,10 +23,10 @@ global.fotonya1 = 'https://telegra.ph/file/eab4cd4b1ba9278a58b34.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/eab4cd4b1ba9278a58b34.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'AnyaaBotz-MD'
+global.wm = 'CxZ - Botz'
 global.watermark = wm
-global.wm2 = '                     「 AnyaaBotz あ⁩ 」'
-global.wm3 = 'AnyaaBotz-MD'
+global.wm2 = '                     「 CxZ - Botz あ⁩ 」'
+global.wm3 = 'CxZ - MD'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/eab4cd4b1ba9278a58b34.jpg'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = '2022'
-global.author = '© IyannSans'
+global.author = '© Ceated By IyannCxZ'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix

@@ -306,17 +306,17 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
             description: menuu,
             buttonText: '> Klick Me <',
             listType: 1,
-            footerText: "AnyaaBotzz-MD",
+            footerText: "CxZ - Botz-MD",
             mtype: 'listMessage',
             sections: [
               {
                 "rows": [{
                   "title": `OWNER BOT`,
-                  "description": "Nomor Pemilik Bot Chat P/Meminta Save Tidak Akan Di Respon",
+                  "description": "",
                   "rowId": `.owner`
                 },{
                   "title": "INFO BOT",
-                  "description": "Menampilkan Menu Info",
+                  "description": "",
                   "rowId": `${_p}? info`
                 }],
                 "title": "INFORMASI BOT"
@@ -523,21 +523,21 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
            },
                {
              quickReplyButton: {
-               displayText: '> Owner Anyaa <',
+               displayText: '*> Owner CxZ <*',
                id: '.owner',
              }
 
            },
                {
              quickReplyButton: {
-               displayText: '> Donasi Anyaa <',
+               displayText: '*> Donasi CxZ <*',
                id: '.donasi',
              }
 
            },
            {
              quickReplyButton: {
-               displayText: '> Back To Menu <',
+               displayText: '*> Back To Menu <*',
                id: '.menu',
              }
            }]

@@ -523,21 +523,21 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
            },
                {
              quickReplyButton: {
-               displayText: '*> Owner CxZ <*',
+               displayText: '> Owner CxZ <',
                id: '.owner',
              }
 
            },
                {
              quickReplyButton: {
-               displayText: '*> Donasi CxZ <*',
+               displayText: '> Donasi CxZ <',
                id: '.donasi',
              }
 
            },
            {
              quickReplyButton: {
-               displayText: '*> Back To Menu <*',
+               displayText: '> Back To Menu <',
                id: '.menu',
              }
            }]
